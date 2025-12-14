@@ -1,0 +1,12 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // AGP 8.7.0 (Pasangan Jiwa Gradle 8.9)
+        classpath 'com.android.tools.build:gradle:8.13.1'
+    }
+}
+
+// Hapus blok allprojects {} jika ada, kita pindah ke settings.gradle

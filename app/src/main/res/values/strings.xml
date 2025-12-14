@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laporan Masyarakat</string>
+    <string name="title_activity_maps">Map Location</string>
+
+    <string name="google_maps_key">AIzaSyD_DUMMY_KEY_BIAR_GAK_ERROR_DOANG</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_history">History</string>
+    <string name="menu_profile">Profile</string>
+</resources>

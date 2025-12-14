@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>       <color name="primary_variant">#1976D2</color>
+    <color name="secondary">#FF9800</color>     <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+
+    <color name="status_new_bg">#E3F2FD</color>
+    <color name="status_new_text">#2196F3</color>
+    <color name="status_process_bg">#FFF3E0</color>
+    <color name="status_process_text">#FF9800</color>
+    <color name="status_done_bg">#E8F5E9</color>
+    <color name="status_done_text">#4CAF50</color>
+
+    <color name="background_page">#F5F5F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_yellow">#FBC02D</color>
+    <color name="accent_yellow">#FFF9C4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="purple_200">#90CAF9</color>
+    <color name="purple_500">#2196F3</color>
+    <color name="purple_700">#1976D2</color>
+    <color name="teal_200">#FFCC80</color>
+    <color name="teal_700">#F57C00</color>
+    <color name="abu_background">#F5F5F5</color>
+    <color name="merah_logout">#E53935</color>
+</resources>
